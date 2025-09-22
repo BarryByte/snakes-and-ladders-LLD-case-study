@@ -1,6 +1,7 @@
 # Snake and Ladders Low Level Design
 
 ## Core Classes and Responsibilities
+![Class Diagram](https://github.com/BarryByte/snakes-and-ladders-LLD-case-study/blob/main/snake-and-ladder-UML-diagram.png)
 
 ### 1. Player Class
 **Attributes:**
